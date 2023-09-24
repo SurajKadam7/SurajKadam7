@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SurajKadam7
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  surajskadam7@gmail.com
 
